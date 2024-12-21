@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RRD", "RRD.Implementation\RRD.csproj", "{CBE706DE-ADD6-4AAC-B411-D59E3D935D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RRD.Test", "RRD.Test\RRD.Test.csproj", "{FFDABC2F-B054-48C8-BFAA-16DF079F03CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE706DE-ADD6-4AAC-B411-D59E3D935D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE706DE-ADD6-4AAC-B411-D59E3D935D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE706DE-ADD6-4AAC-B411-D59E3D935D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE706DE-ADD6-4AAC-B411-D59E3D935D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFDABC2F-B054-48C8-BFAA-16DF079F03CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFDABC2F-B054-48C8-BFAA-16DF079F03CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFDABC2F-B054-48C8-BFAA-16DF079F03CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFDABC2F-B054-48C8-BFAA-16DF079F03CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
