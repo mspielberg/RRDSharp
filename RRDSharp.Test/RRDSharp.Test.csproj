@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RRD.Implementation\RRD.csproj" />
+    <ProjectReference Include="../RRDSharp/RRDSharp.csproj" />
   </ItemGroup>
 
 </Project>

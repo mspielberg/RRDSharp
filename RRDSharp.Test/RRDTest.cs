@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RRD.Test
+namespace RRDSharp.Test
 {
     public class RRDTest
     {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace RRD
+namespace RRDSharp
 {
     public class CircBuffer<T>
     {
